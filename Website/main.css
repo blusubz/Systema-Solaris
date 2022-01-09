@@ -1,0 +1,132 @@
+body, html 
+{
+    padding: 0;
+    margin: 0;
+}
+
+body 
+{
+    background: #201E1F;
+    color: yellowgreen;
+    font-family: 'Amatic SC', cursive;
+    
+}
+
+p 
+{
+    font-size: 45px;
+    font-family: 'Raleway', sans-serif;
+}
+
+tr 
+{
+    font-size: 35px;
+}
+
+a 
+{
+    color: yellow;
+}
+
+h1, h2, h3 
+{
+    
+    font-size: 45px;
+    color: #FF4000;
+    text-align: center;
+}
+
+.main-content 
+{
+    width: 600px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.button
+{
+    background: #313124;
+    color: green;
+    display: inline-block;
+
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    padding-left: 0.8em;
+    padding-right: 0.8em; 
+
+    text-decoration: none;
+    font-weight: bold;
+
+    border-radius: 4px;
+    margin: 0.3em;
+
+    transition: 0.2s;
+
+    font-size: inherit;
+    font-family: inherit;
+    border: 0;
+    cursor: pointer;
+}
+
+.button:hover 
+{
+    background: #313400;
+    /* color: yellow; */
+}
+
+.button:active
+{
+    background: yellowgreen;
+    transform: scale(0.9);
+    transition-property: all;
+}
+
+.hero-container
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+
+    background: url(solar_system.jpg);
+    background-size: cover;
+    background-position: center;
+
+    text-align: center;
+}
+
+.hero-text 
+{
+    color: green;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.color-creator-box 
+{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background: black;
+    border-radius: 4px;
+    font-size: 5.6em;
+    text-align: center;
+    color: #313400;
+    transition: 0.2s;
+}
+
+.table 
+{
+    color: yellowgreen;
+    text-decoration: none;
+}
+
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

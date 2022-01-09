@@ -1,0 +1,27 @@
+body, html 
+{
+    padding: 0;
+    margin: 0;
+}
+
+body 
+{
+    background: blue;
+    color: yellowgreen;
+    font-family: 'Amatic SC', cursive;
+    
+}
+
+p 
+{
+    font-size: 45px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3 
+{
+    
+    font-size: 45px;
+    color: #FF4000;
+    text-align: center;
+}
