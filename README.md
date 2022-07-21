@@ -13,4 +13,6 @@ a few headers of the planets and links of the actual planetary information. <br>
 
 A Resources heaader which has a couple of links that direct to online resources. <br>
 
-At the bottom there is a random color generator that changes color with a single click. 
+At the bottom there is a random color generator that changes color with a single click. <br>
+
+This website is hosted on 'Netlify': https://systema-solaris.netlify.app/
